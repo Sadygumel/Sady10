@@ -1,3 +1,4 @@
+[Sadiya Ahmed Muhammad week 10.pptx](https://github.com/Sadygumel/Sady10/files/14811508/Sadiya.Ahmed.Muhammad.week.10.pptx)
 Dataset Overview
 The dataset contains information about employees in a company, including their demographics, job roles, performance ratings, salary, and whether they have left the company or are still employed.
 
